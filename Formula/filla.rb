@@ -1,4 +1,4 @@
-class Goreleaser < Formula
+class Filla < Formula
   desc "File uploading from the terminal"
   homepage "https://filla.be"
   url "https://releases.filla.be/darwin-amd64/filla.tgz"
